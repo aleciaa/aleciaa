@@ -1,16 +1,32 @@
-## Hi there 👋
+# Alecia
 
+**`Project Whisperer (Email Developer/Creator)`**
+
+I'm a marketing and email development specialist dedicated to transforming the digital marketing landscape one project at a time. My journey spans from ideation and strategic planning to execution and optimization, ensuring every campaign drives impactful results. With a proven track record in streamlining workflows, enhancing CRM systems, and crafting engaging email campaigns, I leverage my technical skills to solve real-world challenges. Dive into my GitHub to explore my contributions to marketing automation, data-driven strategies, and email development projects, all designed to elevate the customer experience and drive business growth.
+
+---
+
+### 🧰 Languages and Tools
+
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
+
+#
 <!--
-**aleciaa/aleciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+ <summary><h3> Alecia's Coding Journey</h3></summary>
+   I embarked on my journey in marketing and email development out of necessity and curiosity during my time at Notable Growth. As a startup, our engineering team was stretched thin, and I saw an opportunity to alleviate some of their workload by learning the basics of front-end development and API configurations myself. With the guidance of a senior solutions architect, I dove into HTML, CSS, Liquid scripting, and JavaScript, transforming from a novice to a resourceful problem-solver.
 
-Here are some ideas to get you started:
+My passion for self-improvement led me to pursue my Braze Certified Marketer certification, and I quickly became proficient in coding emails, building templates, and creating automation workflows. One of my proudest moments was managing the Tech for Black Founders initiative, where I took on a multifaceted role that encompassed marketing consulting, portal setup, email templating, and lifecycle journey planning for Student Athlete, a startup that resonated deeply with me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Inspired by my own experience as a student athlete, I continued to work with Student Athlete Co., helping bridge the gap for athletes transitioning into the corporate world. My long-term goal is to become a full-stack engineer, continuously learning and applying new skills to support innovative projects and startups. I'm currently expanding my expertise with Python and have my sights set on mastering React.
+
+Challenges motivate me to grow and excel. I thrive on solving problems, overcoming obstacles, and connecting with diverse individuals through shared learning experiences. My journey is defined by a relentless drive to improve, a commitment to helping others, and an unwavering curiosity that keeps me exploring new horizons.
 -->
+[website]: https://www.rcrentals.co
+
+
