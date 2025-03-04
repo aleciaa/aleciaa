@@ -2,9 +2,9 @@
 
 **`Project Whisperer (Email Developer/Creator)`**
 
-I'm a self-taught marketing and email development professional with a passion for solving complex problems and continuous learning. I started my journey at Notable Growth, where I learned HTML, CSS, Liquid scripting, and JavaScript to support our small team. I became Braze Certified and managed the Tech for Black Founders initiative, where I combined marketing consulting with technical implementation.
+<!--I'm a self-taught marketing and email development professional with a passion for solving complex problems and continuous learning. I started my journey at Notable Growth, where I learned HTML, CSS, Liquid scripting, and JavaScript to support our small team. I became Braze Certified and managed the Tech for Black Founders initiative, where I combined marketing consulting with technical implementation.
 
-My work with Student Athlete Co. allowed me to apply my skills to help student-athletes transition into the corporate world. Now, I'm expanding my expertise with Python and aiming to master React, with the ultimate goal of becoming a full-stack engineer. Challenges drive me, and I'm always eager to learn and grow in this dynamic field.
+My work with Student Athlete Co. allowed me to apply my skills to help student-athletes transition into the corporate world. Now, I'm expanding my expertise with Python and aiming to master React, with the ultimate goal of becoming a full-stack engineer. Challenges drive me, and I'm always eager to learn and grow in this dynamic field.'**
 
 ---
 
